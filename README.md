@@ -4,7 +4,7 @@ Tripcraft is an AI-powered, end-to-end travel planning platform that designs per
 
 ## 🎥 Demo
 
-https://github.com/cupcakesandcodes/tripcraft/raw/master/public/webcapture.webm
+https://github.com/cupcakesandcodes/tripcraft/blob/master/public/webcapture.webm
 
 > Watch Tripcraft in action - from trip creation to PDF export!
 
